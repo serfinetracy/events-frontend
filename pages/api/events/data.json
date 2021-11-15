@@ -1,0 +1,29 @@
+{
+    "events":[
+        {
+            "id" : 1,
+            "name" : "Throwback Fridays with Femidev",
+            "slug":"throwback-fridays-femidevs",
+            "venue":"Horizon Center",
+            "address": "600, 13th Avenue, Kisumu",
+            "performers":"DJ Mongina",
+            "date": "November 15, 2021",
+            "time": "9:00 PM GMT+3",
+            "description": "featuring dances, party anthems and nostalgic songs from the best years of music",
+            "image":"dummy image"
+
+        },
+        {
+            "id" : 2,
+            "name" : "Dance Festival experience",
+            "slug":"dance-festival-femidevs",
+            "venue":"RackJacks",
+            "address": "1100, 23th Avenue, Kisumu",
+            "performers":"DJ Jean",
+            "date": "November 20, 2021",
+            "time": "9:00 PM GMT+3",
+            "description": "featuring classicals, violins and party songs from the early 2000s",
+            "image":"dummy image"
+
+        }
+    ]}
