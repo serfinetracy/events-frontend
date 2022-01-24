@@ -2,7 +2,7 @@
     "events":[
         {
             "id" : 1,
-            "name" : "Throwback Fridays with Femidev",
+            "name" : "Throwback Fridays with Femidevs",
             "slug":"throwback-fridays-femidevs",
             "venue":"Horizon Center",
             "address": "600, 13th Avenue, Kisumu",
@@ -10,7 +10,8 @@
             "date": "November 15, 2021",
             "time": "9:00 PM GMT+3",
             "description": "featuring dances, party anthems and nostalgic songs from the best years of music",
-            "image":"dummy image"
+           "image":"/images/sample/event1.jpg"
+            
 
         },
         {
@@ -23,7 +24,21 @@
             "date": "November 20, 2021",
             "time": "9:00 PM GMT+3",
             "description": "featuring classicals, violins and party songs from the early 2000s",
-            "image":"dummy image"
+            "image":"/images/sample/event2.jpg"
+
+        },
+
+        {
+            "id" : 3,
+            "name" : "Music Festival experience",
+            "slug":"music-festival-femidevs",
+            "venue":"K-City",
+            "address": "1125, 27th Avenue, Kisumu City",
+            "performers":"La Femidevs",
+            "date": "January 1, 2022",
+            "time": "10:00 PM GMT+3",
+            "description": "featuring rhumba, kenyan hip-hop, gengetone, kapuka, genge, soul, kenyan bongo",
+            "image":"/images/sample/event3.jpg"
 
         }
     ]}

@@ -9,11 +9,11 @@
     box-shadow: 0 2px 5px rgba(0, 0, 0, 1);
 }
 .header a{
-    color: #333;
+    color: rgb(67, 73, 66);
     margin-right:20px ;
 }
 .header a:hover{
-    color:#000
+    color:rgb(13, 27, 13)
 }
 .header ul{
     display: flex;
